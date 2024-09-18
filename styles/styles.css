@@ -1,17 +1,17 @@
 * {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-color:beige;
+  background-color: beige;
 }
 
 h1 {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
-    font-size: 6vw;
-    font-weight: lighter;
-    color:darkgreen;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 6vw;
+  font-weight: lighter;
+  color: darkgreen;
 }
 
 .recipe-item {
-    font-size: 2vw;
-    color: chocolate;
+  font-size: 2vw;
+  color: chocolate;
 }
