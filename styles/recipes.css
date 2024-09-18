@@ -1,0 +1,13 @@
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 4vw;
+  font-weight: bold;
+  color: rgb(0, 111, 0);
+}
+
+.description-content,
+.ingredient-item,
+.steps-item {
+  font-size: 2vw;
+  color: rgb(0, 70, 0);
+}
