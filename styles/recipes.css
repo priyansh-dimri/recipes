@@ -5,6 +5,11 @@ h2 {
   color: rgb(0, 111, 0);
 }
 
+.description-heading,
+.description-content {
+  text-align: center;
+}
+
 .description-content,
 .ingredient-item,
 .steps-item {
