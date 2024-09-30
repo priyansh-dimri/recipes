@@ -10,4 +10,10 @@ h2 {
 .steps-item {
   font-size: 2vw;
   color: rgb(0, 70, 0);
+  margin: 10px;
+}
+
+.recipe-image {
+  display: block;
+  margin: 0 auto;
 }
