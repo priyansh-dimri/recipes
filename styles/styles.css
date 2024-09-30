@@ -14,4 +14,10 @@ h1 {
 .recipe-item {
   font-size: 2vw;
   color: chocolate;
+  margin: 10px;
+}
+
+.recipe-list {
+  width: 500px;
+  margin: 0 auto;
 }
