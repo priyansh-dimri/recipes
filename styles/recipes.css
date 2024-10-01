@@ -5,6 +5,13 @@ h2 {
   color: rgb(0, 111, 0);
 }
 
+.description-container {
+  width: 700px;
+  margin: 20px auto;
+  border: 2px dashed black;
+  padding: 40px;
+}
+
 .description-heading,
 .description-content {
   text-align: center;
