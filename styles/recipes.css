@@ -2,14 +2,14 @@ h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 4vw;
   font-weight: bold;
-  color: rgb(0, 111, 0);
+  color: chocolate;
   margin: 40px;
 }
 
 .description-container {
   width: 700px;
   margin: 40px auto;
-  border: 2px dashed black;
+  border: 2px dashed rgb(0, 111, 0);
 }
 
 .description-heading,
