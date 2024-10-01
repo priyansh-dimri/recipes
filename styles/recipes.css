@@ -3,13 +3,13 @@ h2 {
   font-size: 4vw;
   font-weight: bold;
   color: rgb(0, 111, 0);
+  margin: 40px;
 }
 
 .description-container {
   width: 700px;
-  margin: 20px auto;
+  margin: 40px auto;
   border: 2px dashed black;
-  padding: 40px;
 }
 
 .description-heading,
@@ -22,7 +22,7 @@ h2 {
 .steps-item {
   font-size: 2vw;
   color: rgb(0, 70, 0);
-  margin: 10px;
+  margin: 20px;
 }
 
 .recipe-image {

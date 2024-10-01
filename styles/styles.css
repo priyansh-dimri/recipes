@@ -1,6 +1,7 @@
 * {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   background-color: beige;
+  margin: 0;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
   font-size: 6vw;
   font-weight: lighter;
   color: darkgreen;
+  margin: 40px;
 }
 
 .recipe-item {
